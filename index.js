@@ -31,9 +31,9 @@ function makeInt(a) {
     return 0;
   }
   var x= isNaN('sldkjflksjf');
-  function isNaN(a) {
-    (true)
-  })
+  function makeInt(a) {
+    return (true);
+  }
 
 
 
