@@ -30,6 +30,10 @@ var x = makeInt(10);
 function makeInt(a) {
     return 0;
   }
+  var x= isNaN('sldkjflksjf');
+  function isNaN(a) {
+    (true)
+  })
 
 
 
