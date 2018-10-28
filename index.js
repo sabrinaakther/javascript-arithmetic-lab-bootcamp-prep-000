@@ -26,9 +26,9 @@ var x =makeInt(2);
 function makeInt('a') {
     return  ("a"= a);
   }
-var x =makeInt(10);
-function base(a) {
-    return('0x2328'=0);
+var x = makeInt(10);
+function makeInt(a) {
+    return 0;
   }
 
 
