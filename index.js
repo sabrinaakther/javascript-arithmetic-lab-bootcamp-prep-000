@@ -34,6 +34,10 @@ function makeInt(a) {
   function isNaN(a) {
     return (true);
   }
+var x =preserveDecimal(30); 
+function preserveDecimal(number) {
+    return(2.222);
+  }
 
 
 
