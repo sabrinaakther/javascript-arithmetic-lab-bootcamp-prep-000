@@ -22,7 +22,11 @@ var x= dec(9)
 function dec(a){
   return (a - 1);
 }
-
+var x =makeInt()
+function() {
+  it('parses n as an integer and returns the parsed integer', function() {
+    expect(makeInt(a.toString())).toEqual(a)
+  })
 
 
 
