@@ -24,10 +24,12 @@ function dec(a){
 }
 var x =makeInt(2);
 function makeInt('a') {
-  function toString() {
-    return  ("a"=a);
+    return  ("a"= a);
   }
-}
+var x =makeInt(10);
+function base(a) {
+    return('0x2328'=0);
+  }
 
 
 
