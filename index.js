@@ -14,3 +14,18 @@ var x =divide(7,14)
 function divide(a,b) {
   return (a /b );
 }
+var x =inc(6);
+function inc(a) {
+  return (a + 1);
+}
+var x= dec(9)
+function dec(a){
+  return (a - 1);
+}
+
+
+
+
+
+
+
