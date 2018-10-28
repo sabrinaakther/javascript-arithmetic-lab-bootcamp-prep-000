@@ -10,7 +10,7 @@ var x= multiply(3,7)
 function multiply(a,b) {
   return (a * b);
 }
-var x =divide(2,6)
+var x =divide(7,14)
 function divide(a,b) {
-  return (b / a);
+  return (a /b );
 }
