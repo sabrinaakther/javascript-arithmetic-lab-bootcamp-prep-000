@@ -22,9 +22,9 @@ var x= dec(9)
 function dec(a){
   return (a - 1);
 }
-var x =makeInt(2);
-function makeInt('a') {
-    return  ("a"= a);
+var x =makeInt(2.9);
+function makeInt(a) {
+    return(a);
   }
 var x = makeInt(10);
 function makeInt(a) {
